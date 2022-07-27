@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jkrebsba
+- 👋 Hi, I’m Jordan
 - 👀 I’m interested in learning anything that could potentially make life easier
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything but I'm probably not there yet
